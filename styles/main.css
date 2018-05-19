@@ -74,6 +74,22 @@ nav ul li a {
 	width: 31%;
 }
 
+.col-1 {
+
+}
+
+.col-2 {
+
+}
+
+.col-3 {
+
+}
+
+.col-4 {
+
+}
+
 .jumbotron {
 	color:black;
 	background-color: #333;
@@ -110,4 +126,36 @@ footer ul li {
 	border-radius: 3px;
 	padding: 10px;
 	margin: 1%;
+}
+
+.btn-sm {
+	font-size: 14px;
+}
+
+.btn-lg {
+	font-size: 24px;
+}
+
+/* CARDS */
+
+.card {
+	background:purple;
+	border-radius: 5px;
+	color: white;
+	padding: 10px.5%;
+	float: left;
+	margin: .5%;
+	width: 31%;
+}
+
+.card-body{
+
+}
+
+.card-footer {
+
+}
+
+.card-title h1 {
+	color: yellow;
 }
