@@ -189,3 +189,42 @@ footer ul li {
 	padding: 10px.5%;
 	margin: .5%;
 }
+
+.breadcrumbs {
+	border-radius: 3px;
+	background-color: grey;
+	padding: 15px 15px 0 15px;	
+}
+
+.breadcrumbs h1 {
+	margin: 0;
+	display: inline;
+}
+
+.breadcrumbs ul {
+	padding: 15px 15px 0 15px;
+	margin: 0;
+	padding: 0 0 0 15px;
+	display: inline;
+}
+
+.breadcrumbs ul li {
+	/* background: black; */
+	color: white;
+	display : inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+	margin: 0;
+	color: #ccc;
+	content: "/\00a0";
+}
+
+.breadcrumbs > li +li:before {
+	padding: 0 5px;
+  	color: #ccc;
+  	content: "/\00a0";
+}
+
+.breadcrumbs ul li a {
+	color: white;
+}
