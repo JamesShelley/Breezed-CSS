@@ -67,13 +67,12 @@ nav ul li a {
 .jumbotron {
 	color:black;
 	background-color: #333;
+	border-radius: 5px;
+	padding: 30px;
+	margin: 3%;
 
 }
 
-.container {
-	padding-left: 10px;
-	padding-right: 10px;
-}
 
 footer {
 	clear: both;

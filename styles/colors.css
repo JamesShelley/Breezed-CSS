@@ -1,0 +1,61 @@
+/* TEXT COLOUR */
+
+.text-white{
+    color: white;
+}
+.text-dark{
+    color: black;
+}
+.text-primary {
+    color:blue;
+}
+.text-secondary {
+    color: darkcyan;
+}
+.text-success {
+    color: green;
+}
+.text-warning {
+    color: orange;
+}
+.text-danger {
+    color:red;
+}
+
+/* NAV BACKGROUND COLOUR */
+.nav-bg-light {
+    background-color: white;
+    color: black;
+}
+.nav-bg-dark {
+    background-color: black;
+    color: white;
+}
+.nav-bg-primary {
+    background-color: blue;
+    color: white;
+}
+.nav-bg-secondary {
+    background-color: darkcyan;
+}
+.nav-bg-success {
+    background-color: green;
+    color: white;
+}
+.nav-bg-warning {
+    background-color:orange;
+    color: white;
+}
+.nav-bg-danger {
+    background-color: red;
+    color: white;
+}
+
+/* BUTTON COLOUR */
+.btn-primary {
+
+}
+
+.btn-secondary {
+
+}
