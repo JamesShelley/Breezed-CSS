@@ -23,39 +23,55 @@
 }
 
 /* NAV BACKGROUND COLOUR */
-.nav-bg-light {
+.bg-light {
     background-color: white;
     color: black;
 }
-.nav-bg-dark {
-    background-color: black;
+.bg-dark {
+    /* background-color: black; */
+    background: black;
     color: white;
 }
-.nav-bg-primary {
+.bg-primary {
     background-color: blue;
     color: white;
 }
-.nav-bg-secondary {
+.bg-secondary {
     background-color: darkcyan;
 }
-.nav-bg-success {
+.bg-success {
     background-color: green;
     color: white;
 }
-.nav-bg-warning {
+.bg-warning {
     background-color:orange;
     color: white;
 }
-.nav-bg-danger {
+.bg-danger {
     background-color: red;
     color: white;
 }
 
 /* BUTTON COLOUR */
 .btn-primary {
-
+    background-color: blue;
+    color: white;
 }
 
 .btn-secondary {
+    background-color: darkcyan;
+    color: white;
+}
 
+.btn-success {
+    background-color: green;
+    color: white;
+}
+.btn-warning {
+    background-color:orange;
+    color: white;
+}
+.btn-danger {
+    background-color: red;
+    color: white;
 }

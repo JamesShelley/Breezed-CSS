@@ -3,17 +3,24 @@ body {
 }
 
 header {
-	background: #999;
-	color: white;
-	padding: 15px 15px 0 15px;
+	
 }
 
 header h1 {
+
+}
+
+nav {
+	padding: 15px 15px 0 15px;
+}
+
+nav h1 {
 	margin: 0;
 	display: inline;
 }
 
 nav ul {
+	padding: 15px 15px 0 15px;
 	margin: 0;
 	padding: 0 0 0 15px;
 	display: inline;
@@ -32,7 +39,7 @@ nav ul li a {
 	color: white;
 }
 
-.nav-right {
+.pull-right {
 	float: right;
 }
 
@@ -73,7 +80,31 @@ nav ul li a {
 
 }
 
-
 footer {
 	clear: both;
+	padding: 15px 15px 0 15px;
+
+}
+
+footer ul {
+	padding: 15px 15px 0 15px;
+	margin: 0;
+	padding: 0 0 0 15px;
+	display: inline;
+}
+
+footer ul li {
+	/* background: black; */
+	display : inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+	margin: 0;
+}
+
+/* BUTTONS */
+.btn-primary , .btn-secondary, .btn-success, .btn-warning, .btn-danger {
+	font-size: 18px;
+	border-radius: 3px;
+	padding: 10px;
+	margin: 1%;
 }
