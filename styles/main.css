@@ -11,7 +11,9 @@ header {
 header h1 {
 
 }
-
+.small {
+	font-size: 10px;
+}
 nav {
 	font-family: monospace;
 	padding: 15px 15px 0 15px;
@@ -161,23 +163,32 @@ footer ul li {
 /* CARDS */
 
 .card {
-	background:purple;
+	background-color: white;
 	border-radius: 5px;
 	color: white;
 	padding: 10px.5%;
 	float: left;
 	margin: .5%;
-	width: 31%;
+	/* width: 31%; */
 }
-
+.card-header {
+	background-color:red;
+	border-radius: 5px;
+	color: white;
+	padding: 10px;
+}
 .card-body{
-
+	background-color: black;
+	border-radius: 5px;
+	color: white;
+	padding: 10px.5%;
+	margin: .5%;
 }
 
 .card-footer {
-
-}
-
-.card-title h1 {
-	color: yellow;
+	background-color: grey;
+	border-radius: 5px;
+	color: white;
+	padding: 10px.5%;
+	margin: .5%;
 }
