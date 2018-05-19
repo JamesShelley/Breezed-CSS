@@ -163,23 +163,20 @@ footer ul li {
 /* CARDS */
 
 .card {
-	background-color: white;
-	border-radius: 5px;
+	/* border-radius: 3px; */
 	color: white;
-	padding: 10px.5%;
+	padding: 0px 10px.5% 0px 10px.5%;
 	float: left;
 	margin: .5%;
 	/* width: 31%; */
 }
 .card-header {
 	background-color:red;
-	border-radius: 5px;
 	color: white;
 	padding: 10px;
 }
 .card-body{
 	background-color: black;
-	border-radius: 5px;
 	color: white;
 	padding: 10px.5%;
 	margin: .5%;
@@ -187,7 +184,6 @@ footer ul li {
 
 .card-footer {
 	background-color: grey;
-	border-radius: 5px;
 	color: white;
 	padding: 10px.5%;
 	margin: .5%;
