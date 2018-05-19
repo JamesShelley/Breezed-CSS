@@ -52,6 +52,11 @@
     color: white;
 }
 
+.bg-sun {
+    background-color: yellow;
+    color: black;
+}
+
 /* BUTTON COLOUR */
 .btn-primary {
     background-color: blue;

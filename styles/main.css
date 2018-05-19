@@ -5,7 +5,7 @@ body {
 }
 
 header {
-	
+	background: yellow;
 }
 
 header h1 {
@@ -65,29 +65,28 @@ nav ul li a {
 }
 
 .col {
-	background: #333;
 	border-radius: 5px;
 	color: white;
 	padding: 10px.5%;
 	float: left;
 	margin: .5%;
-	width: 31%;
+	/* width: 31%; */
 }
 
 .col-1 {
-
+	width: 11%;
 }
 
 .col-2 {
-
+	width: 21%;
 }
 
 .col-3 {
-
+	width: 23%;
 }
 
 .col-4 {
-
+	width: 31%;
 }
 
 .jumbotron {
@@ -134,6 +133,10 @@ footer ul li {
 
 .btn-lg {
 	font-size: 24px;
+}
+
+.btn-wide {
+	padding: 10px 75px 10px 75px;
 }
 
 /* CARDS */
