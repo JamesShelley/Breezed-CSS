@@ -54,6 +54,12 @@ nav ul li a {
 	text-align: center;
 }
 
+a {
+	color: aquamarine;
+}
+a:hover {
+	color:pink;
+}
 
 .row {
 	display : inline;
