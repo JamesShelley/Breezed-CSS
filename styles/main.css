@@ -56,6 +56,7 @@ nav ul li a {
 
 
 .row {
+	display : inline;
 	clear: both;
 }
 .row:after {
@@ -87,6 +88,14 @@ nav ul li a {
 
 .col-4 {
 	width: 31%;
+}
+
+.col-5 {
+
+}
+
+.col-6{
+	width: 48%;
 }
 
 .jumbotron {
@@ -133,6 +142,10 @@ footer ul li {
 
 .btn-lg {
 	font-size: 24px;
+}
+
+.btn-x-lg {
+	font-size: 30px;
 }
 
 .btn-wide {
