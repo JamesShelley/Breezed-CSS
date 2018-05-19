@@ -1,5 +1,7 @@
 body {
 	margin: 0;
+	font-size: 18px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 header {
@@ -11,6 +13,7 @@ header h1 {
 }
 
 nav {
+	font-family: monospace;
 	padding: 15px 15px 0 15px;
 }
 
